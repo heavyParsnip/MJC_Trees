@@ -1,0 +1,7 @@
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_Trees\MJC_Trees\bin\Debug\MJC_Trees.exe.config
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_Trees\MJC_Trees\bin\Debug\MJC_Trees.exe
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_Trees\MJC_Trees\bin\Debug\MJC_Trees.pdb
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_Trees\MJC_Trees\obj\Debug\MJC_Trees.csprojAssemblyReference.cache
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_Trees\MJC_Trees\obj\Debug\MJC_Trees.csproj.CoreCompileInputs.cache
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_Trees\MJC_Trees\obj\Debug\MJC_Trees.exe
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_Trees\MJC_Trees\obj\Debug\MJC_Trees.pdb
